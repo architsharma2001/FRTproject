@@ -14,5 +14,9 @@ This is my project video demo url and the whole project described in it-------
 
 
 
-https://user-images.githubusercontent.com/115283465/196873075-3121c7eb-6074-49fb-9c83-b22ee79f12df.mp4
+
+
+https://github.com/architsharma2001/FRTproject/assets/115283465/994c1b67-d9f1-4586-81ef-5c007b8f05df
+
+
 
